@@ -11,6 +11,7 @@ namespace HelloWorld1
         static void Main(string[] args)
         {
             Console.WriteLine("helloworld");
+            Console.WriteLine("Nguyen Van Tung 0101966 66TH2 ");
             Console.ReadLine();
         }
     }
